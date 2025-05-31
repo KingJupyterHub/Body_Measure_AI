@@ -1,0 +1,5 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+transformers
+accelerate
+git+https://github.com/apple/ml-depth-pro.git
+scipy
